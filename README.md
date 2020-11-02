@@ -1,3 +1,13 @@
+Home Page de Easybank
+
+Proyecto realizado con HTML, CSS y JS.
+
+Realizado con el fin de practicar estructura con HTML y estilización con CSS.
+
+Idea y recursos de Frontend Mentor. Programado por Octavio Caba.
+
+**********************************************************************************************************
+
 # Frontend Mentor - Easybank landing page
 
 ![Design preview for the Easybank landing page coding challenge](./design/desktop-preview.jpg)
